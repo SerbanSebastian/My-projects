@@ -1,0 +1,1 @@
+This project is a polynomial calculator that uses RegEx to extract each monomial from a polynomial and does simple operations like addition, subtraction, multiplication, division, differentiation and integration.
