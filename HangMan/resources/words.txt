@@ -1,0 +1,15 @@
+CPU
+RAM Memory
+Hard Drive
+Monitor
+Keyboard
+Mouse
+Storage
+Headphones
+Motherboard
+Power Suply
+Bus
+Hard Disk Drive
+Solid State Drive
+Card Reader
+
