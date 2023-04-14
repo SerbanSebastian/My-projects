@@ -1,0 +1,1 @@
+This is a project designed to describe the functionality of an aplication for students and teachers.

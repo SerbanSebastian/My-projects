@@ -1,0 +1,10 @@
+SELECT * from utilizator;
+SELECT * FROM profesor;
+select * from student;
+select * from curs;
+select * from activitate;
+delete from activitate where idActivitate = 1;
+call add_activitate(1, 1, 2, '2023-01-21', '2023-01-20', 50, 150,"Algebra Liniara", "5020517260044");
+insert into catalog values(1, "4354325243", 7);
+drop table x;
+call select_cursuri("5020517260044");
