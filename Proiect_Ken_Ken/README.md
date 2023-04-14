@@ -1,0 +1,1 @@
+This project is a minigame coded in MASM. The game is Ken Ken and from the source code you can chose to modify the size of the matrix, when you click inside a square from the matrix the console will wait for an imput from you and you have to enter it from the keyboard.
